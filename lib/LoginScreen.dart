@@ -275,7 +275,8 @@ class _LoginScreenState extends State<LoginScreen> {
               color: Colors.black.withOpacity(0.5),
               child: Center(
                 child: Container(
-                  width: 350,
+                  width: 400,
+                  height: 200,
                   padding: const EdgeInsets.all(20),
                   decoration: BoxDecoration(
                     color: Colors.white,
